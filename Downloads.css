@@ -1,0 +1,133 @@
+.u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/starryNightFull.gif.301d7ed810ce6717ed962fa09f2d9aa3.gif");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 943px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none none dotted;
+  animation-duration: 1000ms;
+  margin: 448px auto 0 406px;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: none none dotted;
+  animation-duration: 1000ms;
+  margin: -24px auto 0 492px;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-3 {
+  border-style: none none dotted;
+  animation-duration: 1000ms;
+  margin: -24px auto 0 582px;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-4 {
+  border-style: none none dotted;
+  animation-duration: 1000ms;
+  margin: -24px auto 60px 649px;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 778px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 306px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 392px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-left: 482px;
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-left: 549px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 596px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    align-self: center;
+    margin-top: 60px;
+    margin-left: 203px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    align-self: center;
+    margin-left: 275px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    align-self: center;
+    margin-left: 365px;
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-left: 432px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 447px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 171px;
+    margin-left: 233px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: 10px;
+    margin-left: 228px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-top: 10px;
+    margin-left: 228px;
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-top: 6px;
+    margin-left: 228px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 353px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 60px;
+    margin-left: 128px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 128px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-left: 128px;
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-left: 128px;
+  }
+}
